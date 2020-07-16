@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a recent Masters graduate and a data enthusiast with a strong computer science engineering background. I’m currently working on Global Political Risk Analytics using NLP techniques at Verisk Analytics. 
+I am a Data Scientist with a strong computer science engineering background. I’m currently working on Global Political Risk Analytics using NLP techniques at Verisk Analytics. 
 
 I can ->
 - Expertly analyze business data and suggest scalable improvements to create a refined business product
