@@ -15,7 +15,7 @@ I can ->
 My Data Science Expertise: *Natural Language Processing*
 
 - 🌱 I’m currently learning Deep Learning and Airflow
-- 👯 I’m looking to collaborate on airflow projects
+- 👯 I’m looking to collaborate on projects automating NLP workflow 
 - 🤔 I’m looking for help with organizing data science projects and ML workflows
 
 When not at work I enjoy playing cricket, travel, cook and explore new cuisines. I am an amateur DJ; I love mixing tracks and play for friends and family. 
